@@ -4,6 +4,8 @@
     box-sizing: border-box;
 }
 
-body {
-    background-color: red;
+.col-lg-12.col-md-12.col-sm-12 {
+    height: 70px;
+    width: 100%;
+    background-color: #2c3e50;
 }
