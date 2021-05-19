@@ -17,16 +17,17 @@ header {
     color: white;
 }
 
-.riga {
-
+span {
+    height: 3px;
     width: 15%;
     color: white;
-    
 }
 
+.pictures.card-img {
+    border-radius: 10px;
+} 
 
 #about {
-    height: 400px;
     width: 100%;
     background-color: #1abc9c;
     padding: 60px;
