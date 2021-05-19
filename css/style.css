@@ -25,7 +25,13 @@ span {
 
 .pictures.card-img {
     border-radius: 10px;
+
 } 
+
+.pictures.card-img:hover {
+    cursor: pointer;
+    background-color: rgba(0, 0, 0, 0.7);
+}
 
 #about {
     width: 100%;
@@ -39,7 +45,6 @@ span {
 }
 
 .contact {
-    height: 400px;
     width: 100%;
 
 }
