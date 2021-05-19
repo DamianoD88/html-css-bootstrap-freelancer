@@ -49,10 +49,9 @@ span {
 
 }
 
-
-.up {
-    height: 400px;
+.up.pd-5 {
     width: 100%;
+    padding: 7%;
     background-color: #3a546d;
 }
 
